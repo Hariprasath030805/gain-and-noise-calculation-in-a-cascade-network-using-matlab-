@@ -17,6 +17,6 @@ for i=1:x
 end
 
 clc
-disp(d)
-disp(e)
-disp(f)
+sprintf("The total gain %f",d)
+sprintf("The total noise figure %f",e)
+sprintf("the total noise temperature %f",f)
