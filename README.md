@@ -6,15 +6,24 @@ A user-defined function called mycalc.m is created.
 
 The function gets an argument:
 
-The amplifier's gain
-The amplifier's noise figure
-The amplifier's noise temperature
-Total noise temperature of the amplifier
-Product of each gain of the amplifier
-In which stage 
+1.The amplifier's gain
+
+2.The amplifier's noise figure
+
+3.The amplifier's noise temperature
+
+4.Total noise temperature of the amplifier
+
+5.Product of each gain of the amplifier
+
+6.In which stage 
+
 The function returns:
 
-The total gain up to that stage
-The total noise figure up to that stage
-The total noise temperature up to that stage
-The product of gain up to that stage
+1.The total gain up to that stage
+
+2.The total noise figure up to that stage
+
+3.The total noise temperature up to that stage
+
+4.The product of gain up to that stage
