@@ -20,5 +20,3 @@ The function return :-
 2) The total noise figure upto that stage
 3) The total noise temperature upto that stage
 4) The product of gain upto that stage
-
-A script main.m is created to get input and call the function(mycalc.m) for each stage .
